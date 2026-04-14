@@ -1,0 +1,7 @@
+[package]
+name = "validation-holonomy"
+version = "0.1.0"
+edition = "2021"
+[dependencies]
+constraint-theory-core = "1.0.1"
+rand = "0.8"
